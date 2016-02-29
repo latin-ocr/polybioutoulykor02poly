@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./polybioutoulykor02poly_0015.png"; bbox 0 0 2002 3552; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 545 965 1330 1018">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 545 965 1330 1018">
+     <span class='ocr_line' id='line_1_1' title="bbox 545 965 1330 1018; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 545 965 1330 1018; x_wconf 82' lang='grc' dir='ltr'><strong>ΟΟΟΟΟΟΟΟΟΟΟΟ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 443 1371 1410 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 443 1371 1410 1425">
+     <span class='ocr_line' id='line_1_2' title="bbox 443 1371 1410 1425; baseline -0.006 -2"><span class='ocrx_word' id='word_1_2' title='bbox 443 1371 1410 1425; x_wconf 63' lang='grc' dir='ltr'>ΩΩΩΩΩΩΩΩΩΩΩ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 532 1499 1336 1551">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 532 1499 1336 1551">
+     <span class='ocr_line' id='line_1_3' title="bbox 532 1499 1336 1551; baseline -0.007 -4"><span class='ocrx_word' id='word_1_3' title='bbox 532 1506 821 1548; x_wconf 80' lang='grc' dir='ltr'>ΤΟΜΟΣ</span> <span class='ocrx_word' id='word_1_4' title='bbox 878 1499 1336 1551; x_wconf 71' lang='grc' dir='ltr'><strong>ΔΕΥΤΕΓΟΣ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 266 1679 1599 1905">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 266 1679 1599 1905">
+     <span class='ocr_line' id='line_1_4' title="bbox 266 1679 1599 1762; baseline -0.012 -1"><span class='ocrx_word' id='word_1_5' title='bbox 266 1689 672 1762; x_wconf 86' lang='lat' dir='ltr'>POLYB</span> <span class='ocrx_word' id='word_1_6' title='bbox 710 1692 793 1756; x_wconf 88' lang='lat'>11</span> <span class='ocrx_word' id='word_1_7' title='bbox 860 1681 1475 1756; x_wconf 83' lang='lat' dir='ltr'><strong>LYCORTAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1530 1679 1599 1747; x_wconf 80' lang='lat' dir='ltr'>F..</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 420 1829 1437 1905; baseline -0.01 0"><span class='ocrx_word' id='word_1_9' title='bbox 420 1829 1437 1905; x_wconf 87' lang='lat' dir='ltr'>MEGALOPOLITANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 89 1912 1785 2139">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 89 1912 1785 2139">
+     <span class='ocr_line' id='line_1_6' title="bbox 89 1912 1785 2139; baseline -0.007 1"><span class='ocrx_word' id='word_1_10' title='bbox 89 1912 1785 2139; x_wconf 79' lang='lat' dir='ltr'>HISTORIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 349 2241 1515 2444">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 349 2241 1515 2444">
+     <span class='ocr_line' id='line_1_7' title="bbox 349 2241 1515 2334; baseline -0.009 -25"><span class='ocrx_word' id='word_1_11' title='bbox 349 2247 621 2334; x_wconf 57' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_12' title='bbox 705 2241 1515 2322; x_wconf 69' lang='lat' dir='ltr'><strong>SUPERSUN‘I]</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 446 2378 1456 2444; baseline -0.002 -12"><span class='ocrx_word' id='word_1_13' title='bbox 446 2380 1354 2434; x_wconf 61' lang='lat' dir='ltr'>uuuuuuuuuuuu</span> <span class='ocrx_word' id='word_1_14' title='bbox 1386 2378 1456 2444; x_wconf 51' lang='lat' dir='ltr'>s„</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
